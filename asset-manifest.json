@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Pro200Hummer/friday-project/static/css/main.15bfedb5.chunk.css",
-    "main.js": "/Pro200Hummer/friday-project/static/js/main.d8063b2c.chunk.js",
-    "main.js.map": "/Pro200Hummer/friday-project/static/js/main.d8063b2c.chunk.js.map",
-    "runtime-main.js": "/Pro200Hummer/friday-project/static/js/runtime-main.dce47f27.js",
-    "runtime-main.js.map": "/Pro200Hummer/friday-project/static/js/runtime-main.dce47f27.js.map",
-    "static/js/2.ccaa0eb8.chunk.js": "/Pro200Hummer/friday-project/static/js/2.ccaa0eb8.chunk.js",
-    "static/js/2.ccaa0eb8.chunk.js.map": "/Pro200Hummer/friday-project/static/js/2.ccaa0eb8.chunk.js.map",
-    "static/js/3.67b4dfba.chunk.js": "/Pro200Hummer/friday-project/static/js/3.67b4dfba.chunk.js",
-    "static/js/3.67b4dfba.chunk.js.map": "/Pro200Hummer/friday-project/static/js/3.67b4dfba.chunk.js.map",
-    "index.html": "/Pro200Hummer/friday-project/index.html",
-    "static/css/main.15bfedb5.chunk.css.map": "/Pro200Hummer/friday-project/static/css/main.15bfedb5.chunk.css.map",
-    "static/js/2.ccaa0eb8.chunk.js.LICENSE.txt": "/Pro200Hummer/friday-project/static/js/2.ccaa0eb8.chunk.js.LICENSE.txt",
-    "static/media/Preloader.module.css": "/Pro200Hummer/friday-project/static/media/preloader_logo.e7fde383.jpg"
+    "main.css": "/friday-project/static/css/main.82cb99ba.chunk.css",
+    "main.js": "/friday-project/static/js/main.a954c8b7.chunk.js",
+    "main.js.map": "/friday-project/static/js/main.a954c8b7.chunk.js.map",
+    "runtime-main.js": "/friday-project/static/js/runtime-main.94c8643b.js",
+    "runtime-main.js.map": "/friday-project/static/js/runtime-main.94c8643b.js.map",
+    "static/js/2.ce00ca18.chunk.js": "/friday-project/static/js/2.ce00ca18.chunk.js",
+    "static/js/2.ce00ca18.chunk.js.map": "/friday-project/static/js/2.ce00ca18.chunk.js.map",
+    "static/js/3.67b4dfba.chunk.js": "/friday-project/static/js/3.67b4dfba.chunk.js",
+    "static/js/3.67b4dfba.chunk.js.map": "/friday-project/static/js/3.67b4dfba.chunk.js.map",
+    "index.html": "/friday-project/index.html",
+    "static/css/main.82cb99ba.chunk.css.map": "/friday-project/static/css/main.82cb99ba.chunk.css.map",
+    "static/js/2.ce00ca18.chunk.js.LICENSE.txt": "/friday-project/static/js/2.ce00ca18.chunk.js.LICENSE.txt",
+    "static/media/Preloader.module.css": "/friday-project/static/media/preloader_logo.e7fde383.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.dce47f27.js",
-    "static/js/2.ccaa0eb8.chunk.js",
-    "static/css/main.15bfedb5.chunk.css",
-    "static/js/main.d8063b2c.chunk.js"
+    "static/js/runtime-main.94c8643b.js",
+    "static/js/2.ce00ca18.chunk.js",
+    "static/css/main.82cb99ba.chunk.css",
+    "static/js/main.a954c8b7.chunk.js"
   ]
 }
